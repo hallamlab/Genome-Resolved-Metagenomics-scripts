@@ -1,0 +1,16 @@
+Sakinaw_120m_May2011
+sak_2010_1_5_120m_metaG
+sak_2010_1_5_45m_metaG
+sak_2010_1_5_50m_metaG
+sak_2010_1_5_55m_metaG
+sak_2010_1_5_80m_metaG
+sak_2011_5_24_120m_metaG
+sak_2011_5_24_36m_metaG
+sak_2011_5_24_40m_metaG
+sak_2011_5_24_50m_metaG
+sak_2011_5_24_80m_metaG
+sak_2013_06_06_120m_metaG
+sak_2013_06_06_36m_metaG
+sak_2013_06_06_40m_metaG
+sak_2013_06_06_50m_metaG
+sak_2013_06_06_60m_metaG
